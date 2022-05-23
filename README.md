@@ -30,7 +30,7 @@ This course comprises two semesters, in semester 1 you learn the fundamentals of
 | pda_ds02 | Data extraction |
 | pda_ds03 | The yahoo finance API to extract financial data |
 | pda_ds04 | Correlation |
-| pda_ds05 | Using the HERE a mapping API to generat custom maps based on geolocation |
+| pda_ds05 | Using the HERE mapping API to generate custom maps based on geolocation |
 | pda_ds06 | Data analysis on a large dataset using the SIMD |
 | pda_ds07 | Analyse the CPI to examine cost of living trends |
 | pda_ds08 | Building live dashboards with Voila and binder |
