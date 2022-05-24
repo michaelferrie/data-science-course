@@ -1,6 +1,11 @@
 # data_science_course
 This is a data science course with python programming that I wrote. Work your way through the notebooks in order, each notebook has some practice questions at the end.
 
+To make a local copy of the course just run:
+
+```git clone https://github.com/michaelferrie/data-science-course.git```
+
+
 ## Summary
 This course comprises two semesters, in semester 1 you learn the fundamentals of programming with python. In semester 2, you learn data science and how to use python to draw insights from data.
 
