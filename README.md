@@ -32,12 +32,12 @@ This course comprises two semesters, in semester 1 you learn the fundamentals of
 | Notebook | Topic |
 | --------------- | --------------- |
 | pda_ds01 | Caesar ciphers and cryptography in python |
-| pda_ds02 | Data extraction |
-| pda_ds03 | The yahoo finance API to extract financial data |
-| pda_ds04 | Correlation |
+| pda_ds02 | Data extraction from different sources text,JSON,CSV |
+| pda_ds03 | The yahoo finance API to extract financial data, get live bitcoin values |
+| pda_ds04 | Correlation and generating financial OCL charts|
 | pda_ds05 | Using the HERE mapping API to generate custom maps based on geolocation |
 | pda_ds06 | Data analysis on a large dataset using the SIMD |
 | pda_ds07 | Analyse the CPI to examine cost of living trends |
-| pda_ds08 | Building live dashboards with Voila and binder |
-| pda_ds09 | Using git for version control |
+| pda_ds08 | Building live dashboards with Voila and Binder |
+| pda_ds09 | Using git for version control, git basics |
 | pda_ds10 | Machine learning with K-means clustering |
